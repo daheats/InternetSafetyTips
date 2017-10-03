@@ -2,7 +2,7 @@ from __future__ import print_function
 import random
 
 
-kids_quotes = [
+kids_tips = [
 
     "School and after school activities like soccer practice and drama\
     club is where you make your friends. Be smart. Keep it that way! \
@@ -117,7 +117,7 @@ kids_quotes = [
 
 ]
 
-adult_quotes = [
+adult_tips = [
     
     "When making online purchases, if you're asked to provide a bank\
     account number or credit or debit card number for purchase, ensure\
@@ -249,7 +249,7 @@ adult_quotes = [
     
     ]
 
-parent_quotes = [
+parent_tips = [
 
     "Keep the family computer in a high traffic area of your home so\
     your children know you're present.",
