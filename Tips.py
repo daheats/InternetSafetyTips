@@ -4,8 +4,8 @@ import random
 
 kids_tips = [
 
-    "School and after school activities like soccer practice and drama\
-    club is where you make your friends. Be smart. Keep it that way! \
+    "School and after-school activities like soccer practice and drama\
+    club are where you make your friends. Be smart. Keep it that way! \
     Never meet anyone in person that you talk to online.",
 
     "You don't want strangers all up in your business in real life so\
@@ -18,20 +18,20 @@ kids_tips = [
     identity. Ask your parents for their permission before posting.",
 
     "Ever said something you wish you could take back? In the real\
-    world you can apologize. Online... not so much. Once it's posted\
+    world, you can apologize. Online... not so much. Once it's posted\
     online it stays there forever. Think really hard about what you're\
     posting online and how you're treating others. Studies have shown\
-    some schools may look at your social media precense when trying\
+    some schools may look at your social media presense when trying\
     to decide on whether or not to offer you admission to their\
     school or scholarships.",
 
-    "Do you want someone posting bad or embarassing things from your\
+    "Do you want someone posting bad or embarrassing things from your\
     account making you look bad? I'm guessing you just said NO! Protect\
-    your online precense always, don't give any of your passwords away\
+    your online presense always, don't give any of your passwords away\
     unless you're giving them to your parents or a guardian.",
 
     "The person you met online that said they're Harry Styles or\
-    Taylor Swift most likely aren't. Use your brain, most people\
+    Taylor Swift most likely isn't. Use your brain, most people\
     online aren't who they say they are.",
 
     "So you saw a super cool background or game and you want to\
@@ -58,7 +58,7 @@ kids_tips = [
     adult in so they know what the scoop is and so that they can\
     help you.",
 
-    "Oh em gee an email with a link for free tickets to see my\
+    "Oh em, gee an email with a link for free tickets to see my\
     favorite singer! Stop! Things that are too good to be true\
     probably are. Opening an email from someone you don't know and\
     clicking on links you're not familiar with could give a hacker\
@@ -67,11 +67,11 @@ kids_tips = [
 
     "People online don't need to know that you're going to the\
     library with your friendlies to study and then to the mall or\
-    batting cages afterwards. Keep those details off the internet and\
+    batting cages afterward. Keep those details off the internet and\
     in texts and in-person discussions with your real friends and\
     family.",
 
-    "Wow that's a nice jacket! Wow that's a nice looking pair of\
+    "Wow, that's a nice jacket! Wow, that's a nice looking pair of\
     sneakers! If you're online and see something you want to buy\
     talk to your parents first. The last thing you want to do is buy\
     something without their knowledge and be the reason their identity\
@@ -88,12 +88,12 @@ kids_tips = [
 
     "Show your parents you care about what you're doing online. \
     Talk to them about the cool things you're doing and the websites\
-    you're visiting. At the end of the day the responsibility of your\
+    you're visiting. At the end of the day, the responsibility of your\
     online choices will fall on your parents. Being open about what\
     you're up to will gain yourself some major respect points!",
 
     "Guess what? You're not a doctor! If you're feeling sick ...talk\
-    to your parents! Don't self diagnose by searching out your\
+    to your parents! Don't self-diagnose by searching out your\
     symptoms online. These websites don't account for everything and\
     they certainly don't know your history.",
 
@@ -113,17 +113,17 @@ kids_tips = [
 
     "Make the world a better place. Spread good vibes and good things\
     and make your contributions to the online world positive ones.\
-    You are after all, the future!"
+    You are, after all, the future!"
 
 ]
 
 adult_tips = [
-    
+
     "When making online purchases, if you're asked to provide a bank\
-    account number or credit or debit card number for purchase, ensure\
+    account number or credit or debit card number for the purchase, ensure\
     that the website you're completing the transaction on is secure.\
-    If the website starts with https, that's http with an s at the end,\
-    it is secure. If it's only http without an s at the end, it is not\
+    If the website starts with HTTPS, that's HTTP with an s at the end,\
+    it is secure. If it's only HTTP without an s at the end, it is not\
     a secure website and your payment information could be at risk of\
     being compromised.",
 
@@ -131,7 +131,7 @@ adult_tips = [
     and cell phones to stop prying eyes from strangers and to protect\
     yourself in case your device is stolen.",
 
-    "Don't self diagnose yourself. If you're feeling sick to the point\
+    "Don't self-diagnose yourself. If you're feeling sick to the point\
     you're consulting health websites trying to find an answer you\
     should be consulting a doctor. These websites don't account for\
     everything and they do not know your health history.",
@@ -141,7 +141,7 @@ adult_tips = [
     they may reach out to you on social media asking for a specific\
     amount of money to help them out of a dire situation. Do your due\
     diligence in tracking down your friends or family outside of their\
-    web precense to make sure they're ok and if they weren't the ones\
+    web presense to make sure they're ok and if they weren't the ones\
     that reached out to you... inform them their account has been\
     compromised.",
 
@@ -150,25 +150,25 @@ adult_tips = [
     people that you're not home for an extended period of time.\
     Consider posting those photos after you get home.",
 
-    "So you got tickets to that sold out concert or play? Jet setting\
+    "So you got tickets to that sold out concert or play? Jet-setting\
     to another country? Awesome! Think twice before staging a picture\
     with those tickets though. Crafty people could steal your tickets\
     ahead of time from the information captured in your prized photo.",
 
     "Don't send sensitive information through email. Email is not\
-    encrypted, therefore the contents of email are open to anyone who\
-    might intercept it.",
+    encrypted, therefore the contents of the email are open to anyone\
+    who might intercept it.",
 
     "Check on some of the online services you are using like banking,\
     email, social media, and retail websites. They might offer an\
     additional layer of security on top of your password that is\
-    called two factor authentication.",
+    called two-factor authentication.",
 
     "Try not to have your devices automatically connect to open\
     wireless internet networks. These networks can be easily spoofed\
     and you might not be connecting to the trusted network you think\
     you're connecting to. This may put your online activity in\
-    harms way.",
+    harm's way.",
 
     "Check with your internet service provider before you go out and\
     purchase an anti-virus program. Some internet service providers\
@@ -200,7 +200,7 @@ adult_tips = [
     you.",
 
     "Protect your computer and always use an anti-virus program like\
-    Kaspersky, Trend Micro, Symantec Endpoint, or AVG to safe guard you\
+    Kaspersky, Trend Micro, Symantec Endpoint, or AVG to safeguard you\
     from viruses and malware. Set these programs to auto update\
     their anti-virus definitions so you can stay on top of the nearly\
     one million new malware threats that are released every day.",
@@ -228,9 +228,9 @@ adult_tips = [
     the risk of losing your data.",
 
     "Watch out for phishing attempts. These attempts may come in the\
-    form of an illegitmate website posing as a legitimate website or\
+    form of an illegitimate website posing as a legitimate website or\
     emails that look like they're coming from friends or family or a\
-    trusted institution like a bank. In phishing attempts you might be\
+    trusted institution like a bank. In phishing attempts, you might be\
     prompted to supply personal information like your birthdate,\
     social security number, address, bank account numbers, or\
     passwords. Reputable websites, companies, and trusted friends and\
@@ -246,7 +246,7 @@ adult_tips = [
     browsers and social media websites offer enhanced privacy settings.\
     Enable these settings when they're available to protect yourself\
     while browsing and using the internet."
-    
+
     ]
 
 parent_tips = [
@@ -275,7 +275,7 @@ parent_tips = [
 
     "Research examples of internet safety contracts or create your own\
     internet safety contract that you and your child both agree on that\
-    addresses best internet useage practices.",
+    addresses best internet usage practices.",
 
     "If your child is old enough to be on social media, ensure that\
     they have privacy controls enabled. If you're unsure of how to do\
@@ -308,7 +308,7 @@ parent_tips = [
     limited to installed apps, browsing history, and text message\
     recipients.",
 
-    "Don't let the amount of internet safety threats we face deter you\
+    "Don't let a number of internet safety threats we face deter you\
     from letting your children use the internet. When rules are\
     followed to deter threats the internet can be a great resource for\
     education and personal interests.",
@@ -316,12 +316,12 @@ parent_tips = [
     "Encourage your children to tell you immediately if they're having\
     an issue or are feeling uncomfortable about something that happened\
     or that they saw on the internet. Ensure them that they will not\
-    have their internet privleges taken away for sharing this\
+    have their internet privileges taken away for sharing this\
     information. The goal is not to scare them into hiding a real\
     problem but to promote a safe space for sharing concerns.",
 
     "Talk to your kids about the importance of not sharing\
-    identifying information about themselves online. The accronymn\
+    identifying information about themselves online. The acronym\
     YAPPY can be used. Y for Your full name, A for age, P for phone\
     number, P for passwords, Y for your plans. That's Y-A-P-P-Y - \
     Yappy!",
@@ -333,7 +333,7 @@ parent_tips = [
     "Ensure all operating systems are patched as soon as patches are\
     released.",
 
-    "Teach your kids about common sense internet useage such as not\
+    "Teach your kids about common sense internet usage such as not\
     meeting anyone they speak to online in person, not downloading\
     software or files without your permission, and not sending or\
     posting pictures without a parent's permission. The internet is a\
@@ -348,12 +348,12 @@ parent_tips = [
 
     "Help walk your child through critical thinking in regards to web\
     content. Help show them proper ways of research and teach them the\
-    difference between user submitted content, authoritative\
+    difference between user-submitted content, authoritative\
     content, and spam.",
 
     "Just because you're a fan of YouTube doesn't mean your child\
     should be. At least not of the version of YouTube that you watch.\
-    YouTube offers YouTube Kids which is the kid friendly version of\
+    YouTube offers YouTube Kids which is the kid-friendly version of\
     YouTube!"
 
 ]
